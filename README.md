@@ -1,6 +1,5 @@
 
-# Microsoft Easter Eggs
-![Windows flag waving in the digital wind](https://raw.githubusercontent.com/npjg/microsoft-easter-eggs/main/examples/Windows%20Flag.gif)
+# ![Windows flag waving in the digital wind](https://raw.githubusercontent.com/npjg/microsoft-easter-eggs/main/examples/Windows%20Flag.gif) Microsoft Easter Eggs
 This repository holds Python scripts to extract (and eventually modify)
 the assets for Easter eggs from Microsoft products.
 
